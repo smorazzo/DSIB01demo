@@ -40,3 +40,9 @@ yellow warning remained for overrepresented sequences, new one in sequence lengt
 
 
 
+
+Practicals 5
+We received the chr1.fa file which we sued directly into MEME Chip, unsuccewssfully because it reported error in sequences. We followed together the exercise steps until 6, included, then we started from step 9.
+
+
+
