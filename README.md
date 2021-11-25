@@ -40,6 +40,7 @@ yellow warning remained for overrepresented sequences, new one in sequence lengt
 
 Practicals 4
 
+I missed this class also, so I-ve also asked Daniel to help. We have amnaged to go through msot of the missed lectures together but this one is still on going.
 
 
 
