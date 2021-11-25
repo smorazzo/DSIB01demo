@@ -22,4 +22,21 @@ Practicals 3
 I missed this class. Daniel alter helped me follow the class from the PDF.
 
 Assessing quality control in fastqc program
- the reads1 file, with no
+reads1 file, 
+with no sequences flagged as poor quality
+per base content with yellow warning, and also overrepresented sequences
+
+reads2 file
+with no seqeunces flagged as poor quality
+overepresented sequences with yellow warning
+
+Then we applied trimming, using cutadapt
+the results of the trimmed files are
+reads 1 trimmmed
+yellow warning remained for per base content and overrepresented sequences, and a new one in sequence length
+
+reads2 trimmed
+yellow warning remained for overrepresented sequences, new one in sequence length distribution and a red one in perbase seqeunce content
+
+
+
