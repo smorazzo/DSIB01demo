@@ -36,13 +36,18 @@ reads 1 trimmmed
 yellow warning remained for per base content and overrepresented sequences, and a new one in sequence length
 
 reads2 trimmed
-yellow warning remained for overrepresented sequences, new one in sequence length distribution and a red one in perbase seqeunce content
+yellow warning remained for overrepresented sequences, new one in sequence length distribution and a red one in perbase sequence content
+
+Practicals 4
 
 
 
 
 Practicals 5
-We received the chr1.fa file which we sued directly into MEME Chip, unsuccewssfully because it reported error in sequences. We followed together the exercise steps until 6, included, then we started from step 9.
+
+Following instructions from 1 to 6. We downloaded the encode project files. The chromossome 1 file was sent after by email as chr1.fa.
+With the initial steps we sorted the data from the encode projec. Step 7 and 8 weren-t possible because we don-t have a chr1?peaks.bed file. We assumed this is because we had already received the chr1.fa, which is the final result of step 8. So we used this file in MEME Chip, after tailoring the conditions, howver it reported errors in sequence, so we couldn-t provide the search resutls for motif detection.
+
 
 
 
